@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shipping-nextjs",
+  "capabilityKey": "planned:ecommerce:shipping",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-shipping-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/shipping.md",
+  "presentationPlan": "projects/ecommerce/nextjs/shipping.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
